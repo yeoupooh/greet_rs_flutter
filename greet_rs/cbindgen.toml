@@ -1,0 +1,2 @@
+language = "C"
+include_guard = "__GREET_RS_GEN_H__"
